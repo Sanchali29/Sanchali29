@@ -32,8 +32,9 @@ Checkout my portfolio - **[MY PORTFOLIO](https://github.com/Sanchali29/sanchali2
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchali29&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanchali29&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
+<div align="center">
 
-<img align="left" width="5%" src="https://github.com/Sanchali29/Sanchali29/blob/main/casual-life-3d-envelope-1.png?raw=true"/> <h3> Reach Me @: </h3>
+<img align="center" width="5%" src="https://github.com/Sanchali29/Sanchali29/blob/main/casual-life-3d-envelope-1.png?raw=true"/> <h3> Reach Me @: </h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchali-deshmukh29/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchali29)
 
